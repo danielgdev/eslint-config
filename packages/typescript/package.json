@@ -1,10 +1,10 @@
 {
-  "name": "@danielgdev/eslint-config-ts",
+  "name": "@x0dado/eslint-config-ts",
   "version": "0.1.5",
   "description": "",
   "keywords": [],
   "license": "MIT",
-  "author": "Daniel Galindo <hello@danielgalindo.dev> (https://github.com/danielgdev/)",
+  "author": "Daniel Galindo <email@x0dado.net> (https://github.com/x0dado/)",
   "files": [
     "index.js"
   ],
@@ -17,7 +17,7 @@
     "typescript": ">=3.9"
   },
   "dependencies": {
-    "@danielgdev/eslint-config-basic": "^0.1.5",
+    "@x0dado/eslint-config-basic": "^0.1.5",
     "@typescript-eslint/eslint-plugin": "^5.9.1",
     "@typescript-eslint/parser": "^5.9.1"
   },

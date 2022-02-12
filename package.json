@@ -1,8 +1,8 @@
 {
-  "name": "@danielgdev/eslint-config-monorepo",
-  "version": "0.1.0",
+  "name": "@x0dado/eslint-config-monorepo",
+  "version": "0.2.0",
   "license": "MIT",
-  "author": "Daniel Galindo <hello@danielgalindo.dev> (https://github.com/danielgdev/)",
+  "author": "Daniel Galindo <email@x0dado.net> (https://github.com/x0dado/)",
   "private": true,
   "scripts": {
     "preinstall": "npx only-allow pnpm",
@@ -10,7 +10,7 @@
     "release": "lerna publish --conventional-commits"
   },
   "devDependencies": {
-    "@danielgdev/eslint-config": "*",
+    "@x0dado/eslint-config": "*",
     "eslint": "^8.6.0",
     "lerna": "^4.0.0",
     "typescript": "^4.5.4"
