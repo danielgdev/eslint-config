@@ -1,11 +1,11 @@
-# @danielgdev/eslint-config
+# @x0dado/eslint-config
 
 ## Usage
 
 ### Install
 
 ```bash
-pnpm add -D eslint @danielgdev/eslint-config
+pnpm add -D eslint @x0dado/eslint-config
 ```
 
 ### Config `.eslintrc`
@@ -13,7 +13,7 @@ pnpm add -D eslint @danielgdev/eslint-config
 ```json
 {
   "extends": [
-    "@danielgdev"
+    "@x0dado"
   ]
 }
 ```
